@@ -4,4 +4,4 @@
 
 ### Get in Touch
 
-[Tech Blog](https://mooncommit.github.io)
+[![Tech Blog Badge](http://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=github)](https://mooncommit.github.io)
